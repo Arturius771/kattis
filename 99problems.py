@@ -13,5 +13,5 @@ else:
             print (value + 50)
         else:
             print(value + (99 - hundredth))
-s
+
 # See alternative method: https://github.com/ecly/kattis/blob/master/99problems/99problems.py
